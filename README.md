@@ -5,7 +5,7 @@
   <h1 align="center">SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction</h1>
   <div align="center">
     <h3><strong>Jialei Chen, Xin Zhang, Mobarakol Islam, Francisco Vasconcelos, Danail Stoyanov, Daniel S. Elson, Baoru Huang*</strong></h3>
-    <h3 align="center"> || <a href="https://arxiv.org/pdf/2410.09292">Paper</a> || <a href="https://arxiv.org/abs/2410.09292">Arxiv</a> || </h3>
+    <h3 align="center"> || <a href="https://arxiv.org/abs/2410.09292">Arxiv</a> || </h3>
     <div align="center"></div>
   </div>
   <div align="center"></div>
