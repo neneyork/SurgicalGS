@@ -37,7 +37,10 @@ The data structure is as follows:
 data
 | - EndoNeRF
 |   | - cutting_tissues_twice
-|   |   └── ...
+|   |   |- images
+|   |   |- depth
+|   |   |- masks
+|   |   |- poses_bounds.npy
 |   | - pushing_soft_tissues
 |   |   └── ...
 | - StereoMIS
